@@ -1,0 +1,6 @@
+llama-index==0.14.8
+llama-index-llms-gemini==0.6.1
+llama-index-embeddings-huggingface==0.6.1
+sentence-transformers==5.1.2
+python-dotenv==1.2.1
+pypdf==6.3.0
